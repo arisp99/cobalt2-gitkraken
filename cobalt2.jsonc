@@ -32,6 +32,17 @@
       "subtle-border": "fade(#fff, 4%)",
       // not sure what this is
       "modal-overlay-color": "rgba(0,0,0,.5)",
+      // graph colors
+      "graph-color-0": "#0088ff",
+      "graph-color-1": "#ff9d00",
+      "graph-color-2": "#ff628c",
+      "graph-color-3": "#3ad900",
+      "graph-color-4": "#ff628c",
+      "graph-color-5": "#ffc600",
+      "graph-color-6": "#f25d2e",
+      "graph-color-7": "#f2ca33",
+      "graph-color-8": "#7bd938",
+      "graph-color-9": "#2ece9d",
       // text colors
       // values starting with . aren't added to the CSS, they're just variables
       ".text-color": "#fff",
@@ -97,6 +108,29 @@
       "terminal__repo-branch-color": "violet",
       "terminal__repo-tag-color": "lightcoral",
       "terminal__repo-upstream-color": "yellowgreen"
+      // code editor
+      "code-bg": "@app__bg0",
+      "code-foreground": "@text-normal",
+      "code-blame-color-0": "@graph-color-0",
+      "code-blame-color-1": "@graph-color-1",
+      "code-blame-color-2": "@graph-color-2",
+      "code-blame-color-3": "@graph-color-3",
+      "code-blame-color-4": "@graph-color-4",
+      "code-blame-color-5": "@graph-color-5",
+      "code-blame-color-6": "@graph-color-6",
+      "code-blame-color-7": "@graph-color-7",
+      "code-blame-color-8": "@graph-color-8",
+      "code-blame-color-9": "@graph-color-9",
+      "added-line": "fade(@green, 40%)",
+      "deleted-line": "fade(@red, 40%)",
+      "modified-line": "fade(#000000, 25%)",
+      "conflict-info-color": "#15a0bf",
+      "conflict-left-border-color": "#15a0bf",
+      "conflict-left-color": "fade(@conflict-left-border-color, 25%)",
+      "conflict-right-border-color": "#f2ca33",
+      "conflict-right-color": "fade(@conflict-right-border-color, 25%)",
+      "conflict-output-border-color": "#c517b6",
+      "conflict-output-color": "fade(@conflict-output-border-color, 25%)"
     },
     // override specific values just for the toolbar
     "toolbar": {
