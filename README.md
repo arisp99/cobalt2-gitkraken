@@ -1,9 +1,11 @@
+# <img src="images/logo.png" width="300"/> 
 # Cobalt2 Theme for Gitkraken
 
-Cobalt2 theme for the GitKraken Client. Based on the [Cobalt2 theme for
-vscode](https://github.com/wesbos/cobalt2-vscode).
+GitKraken now supports custom user-defined themes. This repository contains the Cobalt2 theme, based on the [Cobalt2 theme for vscode](https://github.com/wesbos/cobalt2-vscode).
 
-![example](image.png)
+## Preview
+
+![preview](images/preview.png)
 
 ## Installation
 
