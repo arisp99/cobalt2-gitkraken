@@ -13,17 +13,17 @@
       "blue": "#0088ff",
       "ltblue": "#5bc0de",
       // app background
-      "app__bg0": "#122738",
+      "app__bg0": "#193549",
       // toolbar
       "toolbar__bg0": "lighten(#193549, 2%)",
       "toolbar__bg1": "lighten(@toolbar__bg0, 4%)",
       "toolbar__bg2": "lighten(@toolbar__bg1, 6%)",
       // tree panel and sidebar
       "panel__bg0": "lighten(#193549, 2%)",
-      "panel__bg1": "lighten(@panel__bg0, 5%)",
-      "panel__bg2": "lighten(@panel__bg1, 5%)",
+      "panel__bg1": "lighten(@panel__bg0, 2%)",
+      "panel__bg2": "lighten(@panel__bg1, 2%)", // used when opening new repo
       // search bars and commit message
-      "input__bg": "fade(#000000, 30%)",
+      "input__bg": "fade(#000000, 20%)",
       // not sure what this is
       "input-bg-warn-color": "fade(@orange, 90%)",
       // borders
